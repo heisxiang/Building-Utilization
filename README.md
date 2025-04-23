@@ -1,7 +1,15 @@
-# Building-Utilization
-Building Utilization Study using University Registrar Data
+# Building Utilization
 
-Preview:
+### Objective
+Identify university buildings with under-utilized classrooms to aid in planning decisions towards university facilities.
+
+### Data Collection
+Data taken from University Registrar Data:
+
+https://www.kaggle.com/datasets/thedevastator/university-student-enrollment-data
+
+
+### Preview
 
 <img src="https://github.com/user-attachments/assets/a1fad6e9-c2e9-4593-be01-0424eabad961" width="720">
 
